@@ -4,6 +4,7 @@
 <br>
 <h1> Hello Fellow < Developers/ >! <img src = "Resources/wave.gif" width = 30px> </h1>
 <img src="Resources/grid-snake.svg" alt="">
+<h2 style="display: inline-block">Confusion is part of Programming</h2>
 <br>
 <br>
 <img src="Resources/Poke-Up.png">
