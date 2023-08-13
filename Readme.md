@@ -204,5 +204,7 @@ If you have any questions about web development, writing mistake-free documentat
 <div align=left+>
 <h2> Connect with me <img src='Resources/handshake.gif' width="100px"> </h2>
 <a href = 'https://api.whatsapp.com/send?phone=923000192168'> <img width = '32px' align= 'center' src="Resources/whatsapp-tile.svg"/></a> 
-<img src="Resources/bars.gif" alt="">
+<br>
+<br>
 </div>
+<img src="Resources/bars.gif" alt="">
