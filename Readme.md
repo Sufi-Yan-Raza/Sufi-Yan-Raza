@@ -1,28 +1,27 @@
-<p align="right"> <img src="https://gpvc.arturio.dev/austinae" alt="Profile count" /> </p>
-
 <div align="center">
-
-
-![Top of pokeball](../Resources/Poke-Up.png)
-
+<img src="Resources/bars.gif" alt="">
+<br>
+<h1> Hello Fellow < Developers/ >! <img src = "Resources/wave.gif" width = 30px> </h1>
+<img src="Resources/grid-snake.svg" alt="">
+<br>
+<br>
+<img src="Resources/Poke-Up.png">
 <details>
 <summary>Open profile</summary>
-
-[comment]: <> (View Counter)
 <br>
 <div>
   <div align=center>
-      <img height="200" src="../Resources/Sufi-Yan-Raza.png" alt="Avatar photo of Sufi Yan Raza">
+      <img height="200" src="Resources/Sufi-Yan-Raza.png" alt="Avatar photo of Sufi Yan Raza">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Sufi+Yan+Raza;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Inquisitive+by+nature;AI+Enthusiast;Horse+Rider;Confident+&+Ambitious;Young+at+heart;Volley+Ball+Player;Thrill+Seeker" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=35&duration=3500&pause=300&color=f75c7e&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Sufi+Yan+Raza;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;UI/UX+Designer;IBM+Meta+&+Google+Certifies;Horse+Rider;Confident+&+Ambitious;Young+at+heart;Volley+Ball+Player;Thrill+Seeker" alt="Typing SVG" /></a>
   </div>
 </div>
 
 <details>
 <summary>About me</summary>
 
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
+[//]: # "You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div"
 
 <div align="left">
 
@@ -55,49 +54,49 @@
       <kbd>Programming Languages</kbd>
       <br>
       <br>
-      <img width="30px" src="../Resources/JavaScript.svg" /> 
-      <img width="30px" src="../Resources/python.svg" /> 
-      <img width="30px" src="../Resources/Java.svg" /> 
-      <img width="30px" src="../Resources/C++.svg" /> 
+      <img width="30px" src="Resources/JavaScript.svg" /> 
+      <img width="30px" src="Resources/python.svg" /> 
+      <img width="30px" src="Resources/Java.svg" /> 
+      <img width="30px" src="Resources/C++.svg" /> 
     </kbd>
     <kbd>
       <kbd>Back-end</kbd>
       <br>
       <br>
-      <img width="30px" src="../Resources/Ruby_on_Rails.svg" />
-      <img width="30px" src="../Resources/Flask-Dark.svg" />
-      <img width="30px" src="../Resources/NodeJS-Dark.svg" />
-      <img width="30px" src="../Resources/ExpressJS-Dark.svg" />
+      <img width="30px" src="Resources/Ruby_on_Rails.svg" />
+      <img width="30px" src="Resources/Flask-Dark.svg" />
+      <img width="30px" src="Resources/NodeJS-Dark.svg" />
+      <img width="30px" src="Resources/ExpressJS-Dark.svg" />
     </kbd>
      <kbd>
       <kbd>Mobile</kbd>
       <br>
       <br>
-      <img width="30px" src="../Resources/Dart.svg" />
-      <img width="30px" src="../Resources/Flutter.svg" />
-      <img width="30px" src="../Resources/Kotlin.svg" />
-      <img width="30px" src="../Resources/Swift.svg" />
+      <img width="30px" src="Resources/Dart.svg" />
+      <img width="30px" src="Resources/Flutter.svg" />
+      <img width="30px" src="Resources/Kotlin.svg" />
+      <img width="30px" src="Resources/Swift.svg" />
     </kbd>
     <kbd>
       <kbd>Front-end</kbd>
       <br>
       <br>
-      <img width="30px" src="../Resources/HTML.svg" /> 
-      <img width="30px" src="../Resources/CSS.svg" /> 
-      <img width="30px" src="../Resources//React-Dark.svg" /> 
-      <img width="30px" src="../Resources/Angular-Dark.svg" />
-      <img width="30px" src="../Resources/ThreeJS-Dark.svg" />
-      <img width="30px" src="../Resources/Bootstrap.svg" />
-      <img width="30px" src="../Resources/TailwindCSS-Dark.svg" />
-      <img width="30px" src="../Resources/Webflow.svg" />
+      <img width="30px" src="Resources/HTML.svg" /> 
+      <img width="30px" src="Resources/CSS.svg" /> 
+      <img width="30px" src="Resources//React-Dark.svg" /> 
+      <img width="30px" src="Resources/Angular-Dark.svg" />
+      <img width="30px" src="Resources/ThreeJS-Dark.svg" />
+      <img width="30px" src="Resources/Bootstrap.svg" />
+      <img width="30px" src="Resources/TailwindCSS-Dark.svg" />
+      <img width="30px" src="Resources/Webflow.svg" />
     </kbd>
     <kbd>
       <kbd>Database</kbd>
       <br>
       <br>
-      <img width="30px" src="../Resources/mongodb.svg" />
-      <img width="30px" src="../Resources/postgresql.svg" />
-      <img width="30px" src="../Resources/redis.svg" />
+      <img width="30px" src="Resources/mongodb.svg" />
+      <img width="30px" src="Resources/postgresql.svg" />
+      <img width="30px" src="Resources/redis.svg" />
     </kbd>
     <br>
     <br>
@@ -105,44 +104,43 @@
       <kbd>Data Science & AI</kbd>
       <br>
       <br>
-      <img width="30px" src="../Resources/matlab.svg" />
-      <img width="30px" src="../Resources/Tenserflow.svg" />
-      <img width="30px" src="../Resources/Numpy.svg" />
+      <img width="30px" src="Resources/matlab.svg" />
+      <img width="30px" src="Resources/Tenserflow.svg" />
+      <img width="30px" src="Resources/Numpy.svg" />
     </kbd>
     <kbd>
       <kbd>System, Networking & Deployment</kbd>
       <br>
       <br>
-      <img width="30px" src="../Resources/heroku.svg" />
-      <img width="30px" src="../Resources/git.svg" />
-      <img width="30px" src="../Resources/docker.svg" />
-      <img width="30px" src="../Resources/terraformio.svg" />
-      <img width="30px" src="../Resources/kubernetes.svg" />
+      <img width="30px" src="Resources/heroku.svg" />
+      <img width="30px" src="Resources/git.svg" />
+      <img width="30px" src="Resources/docker.svg" />
+      <img width="30px" src="Resources/terraformio.svg" />
+      <img width="30px" src="Resources/kubernetes.svg" />
     </kbd>
     <kbd>
       <kbd>Terminal Scripts</kbd>
       <br>
       <br>
-      <img width="30px" src="../Resources/Bash-Dark.svg" />
-      <img width="30px" src="../Resources/Vim.svg" />    
+      <img width="30px" src="Resources/Bash-Dark.svg" />
+      <img width="30px" src="Resources/Vim.svg" />    
     </kbd>
     <kbd>
       <kbd>Tools</kbd>
       <br>
       <br>
-      <img width="30px" src="../Resources/VSCode.svg" />
-      <img width="30px" src="../Resources/canva-icon.svg" />
-      <img width="30px" src="../Resources/JupyterNB.svg" />
-      <img width="30px" src="../Resources/PYCharm.svg" />
-      <img width="30px" src="../Resources/Rubymine.svg" />
-      <img width="30px" src="../Resources/figma-icon.svg" />
-      <img width="30px" src="../Resources/PYCharm.svg" />
+      <img width="30px" src="Resources/VSCode.svg" />
+      <img width="30px" src="Resources/canva-icon.svg" />
+      <img width="30px" src="Resources/JupyterNB.svg" />
+      <img width="30px" src="Resources/PYCharm.svg" />
+      <img width="30px" src="Resources/Rubymine.svg" />
+      <img width="30px" src="Resources/figma-icon.svg" />
   </kbd>
      <kbd>
       <kbd>Game Development</kbd>
       <br>
       <br>
-      <img width="30px" src="../Resources/Unity-Dark.svg" />
+      <img width="30px" src="Resources/Unity-Dark.svg" />
     </kbd>
   </p>
 </div>
@@ -172,7 +170,7 @@
   <tr>
   <td width="50%" valign="top">
 
-[//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
+[//]: # "Fighting against markdown and blocks isn't easy, indentation is catastrophic"
 
 ## Let's Work on Your Project Together!
 
@@ -183,7 +181,7 @@ If you have any questions about web development, writing mistake-free documentat
 
 ## It's not perfect, isn't it?
 
-**<a href="https://api.whatsapp.com/send?phone=923000192168"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>
+**<a href="https://github.com/Sufi-Yan-Raza/Sufi-Yan-Raza/issues"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>
 **
 
 <blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
@@ -196,6 +194,13 @@ If you have any questions about web development, writing mistake-free documentat
 
 </details>
 
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+<img src="Resources/Poke-down.png" >
 
 </div>
+<br/>
+<br/>
+<div align=center>
+<h2> Connect with me <img src='Resources/handshake.gif' width="100px"> </h2>
+<a href = 'https://api.whatsapp.com/send?phone=923000192168'> <img width = '32px' align= 'center' src="Resources/whatsapp-tile.svg"/></a> 
+</div>
+<img src="Resources/bars.gif" alt="">
