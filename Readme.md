@@ -1,6 +1,7 @@
 <div align="center">
 <img src="Resources/bars.gif" alt="">
 <br>
+<br>
 <h1> Hello Fellow < Developers/ >! <img src = "Resources/wave.gif" width = 30px> </h1>
 <img src="Resources/grid-snake.svg" alt="">
 <br>
